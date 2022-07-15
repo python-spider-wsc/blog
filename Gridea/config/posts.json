@@ -1,0 +1,45 @@
+{
+  "posts": [],
+  "tags": [
+    {
+      "index": -1,
+      "name": "python",
+      "slug": "python",
+      "used": false
+    },
+    {
+      "index": 1,
+      "name": "机器学习",
+      "slug": "machine-learning",
+      "used": false
+    },
+    {
+      "index": 2,
+      "name": "其他",
+      "slug": "other",
+      "used": false
+    }
+  ],
+  "menus": [
+    {
+      "link": "/",
+      "name": "首页",
+      "openType": "Internal"
+    },
+    {
+      "link": "/archives",
+      "name": "归档",
+      "openType": "Internal"
+    },
+    {
+      "link": "/tags",
+      "name": "标签",
+      "openType": "Internal"
+    },
+    {
+      "link": "/tag/python",
+      "name": "python",
+      "openType": "Internal"
+    }
+  ]
+}

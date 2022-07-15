@@ -1,0 +1,31 @@
+{
+  "config": {
+    "branch": "main",
+    "cname": "",
+    "domain": "https://python-spider-wsc.github.io",
+    "email": "",
+    "enabledProxy": "direct",
+    "platform": "github",
+    "privateKey": "",
+    "proxyPath": "127.0.0.1",
+    "proxyPort": "7890",
+    "repository": "python-spider-wsc",
+    "token": "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",
+    "username": "python-spider-wsc"
+  },
+  "comment": {
+    "commentPlatform": "gitalk",
+    "disqusSetting": {
+      "api": "",
+      "apikey": "",
+      "shortname": ""
+    },
+    "gitalkSetting": {
+      "clientId": "",
+      "clientSecret": "",
+      "owner": "",
+      "repository": ""
+    },
+    "showComment": false
+  }
+}
